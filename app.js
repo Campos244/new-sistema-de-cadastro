@@ -1,0 +1,1 @@
+console.log("Linkando diferentes tipos de  arquivos para testes");
